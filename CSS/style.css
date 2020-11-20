@@ -5,10 +5,6 @@
     box-sizing: border-box;
 }
 
-body {
-    
-}
-
 .clock-container {
     display: flex;
     align-items: center;
@@ -19,5 +15,6 @@ body {
 }
 
 h1 {
-    font-size: 270px;
+    font-size: 13vw;
+    color: #fff;
 }
